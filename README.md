@@ -35,6 +35,8 @@
 
 | \*\*Day 5\*\* | 分支 (Branch) 基礎 | - 了解分支的用途 <br> - 學會建立與切換分支 | ✅ 建立 `feature-1` 分支 <br> ✅ 在新分支修改內容並合併回 `main` |
 
+-> day 5實作: 在branch分支進行:這是 feature-hello 分支的內容
+
 | \*\*Day 6\*\* | 協作流程 | - 學會 `clone` 與 `pull` <br> - 瞭解 Fork 與 Pull Request 的流程 | ✅ 嘗試 `git clone` 自己的 repo <br> ✅ 在 GitHub 上模擬一次 Pull Request |
 
 | \*\*Day 7\*\* | 綜合應用 | - 把這週學到的技能串起來 <br> - 完成一個小專案版本管理 | ✅ 建立一個小專案（例如：記事本程式） <br> ✅ 完成 commit → push → 修改 → push 全流程 |

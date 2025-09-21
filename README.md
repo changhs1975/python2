@@ -1,5 +1,8 @@
 "# Hello GitHub"
 
+day 6 : edit on github web
+2025.09.21 22:20
+
 \# 🧑‍💻 7 天 GitHub 入門學習計劃
 
 

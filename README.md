@@ -31,6 +31,8 @@
 
 | \*\*Day 4\*\* | 常用指令練習 | - 熟悉 `status`、`add`、`commit`、`log` <br> - 瞭解 commit 的歷史紀錄 | ✅ 修改 `README.md` 並提交 <br> ✅ 使用 `git log` 查看提交紀錄 |
 
+-> day 4實作: modify
+
 | \*\*Day 5\*\* | 分支 (Branch) 基礎 | - 了解分支的用途 <br> - 學會建立與切換分支 | ✅ 建立 `feature-1` 分支 <br> ✅ 在新分支修改內容並合併回 `main` |
 
 | \*\*Day 6\*\* | 協作流程 | - 學會 `clone` 與 `pull` <br> - 瞭解 Fork 與 Pull Request 的流程 | ✅ 嘗試 `git clone` 自己的 repo <br> ✅ 在 GitHub 上模擬一次 Pull Request |

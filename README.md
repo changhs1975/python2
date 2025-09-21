@@ -26,6 +26,9 @@
 
 | \*\*Day 3\*\* | 與 GitHub 連結 | - 學會建立 GitHub Repository <br> - 學會本地與遠端倉庫的關聯 | ✅ 建立 GitHub repo 並連結遠端 <br> ✅ 成功執行 `git push` 上傳檔案 |
 
+-> day 3實作: modify -> git add .  加到stage(暫存區) -> git commit -> git push上去
+
+
 | \*\*Day 4\*\* | 常用指令練習 | - 熟悉 `status`、`add`、`commit`、`log` <br> - 瞭解 commit 的歷史紀錄 | ✅ 修改 `README.md` 並提交 <br> ✅ 使用 `git log` 查看提交紀錄 |
 
 | \*\*Day 5\*\* | 分支 (Branch) 基礎 | - 了解分支的用途 <br> - 學會建立與切換分支 | ✅ 建立 `feature-1` 分支 <br> ✅ 在新分支修改內容並合併回 `main` |
